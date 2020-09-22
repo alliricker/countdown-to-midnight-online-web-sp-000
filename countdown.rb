@@ -1,4 +1,4 @@
-
+number = 0 
 def countdown(number)
   while number > 0
    sleep 5
